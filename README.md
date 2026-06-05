@@ -6,3 +6,4 @@
 | 2 | Earliest Finish Time for Land and ... | easy | JavaScript | Two Pointer | [Link](https://github.com/ftnimran/empty_03/tree/main/easy/two-pointer/earliest-finish-time-for-land-and-water-rides-i) | 02-06-26 |
 | 3 | Earliest Finish Time for Land and ... | medium | JavaScript | Two Pointer | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/two-pointer/earliest-finish-time-for-land-and-water-rides-ii) | 03-06-26 |
 | 4 | Total Waviness of Numbers in Range I | medium | JavaScript | DP | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/dp/total-waviness-of-numbers-in-range-i) | 04-06-26 |
+| 5 | Total Waviness of Numbers in Range II | hard | JavaScript | DP | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/dp/total-waviness-of-numbers-in-range-ii) | 05-06-26 |
