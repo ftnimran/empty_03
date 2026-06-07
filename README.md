@@ -8,3 +8,4 @@
 | 4 | Total Waviness of Numbers in Range I | medium | JavaScript | DP | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/dp/total-waviness-of-numbers-in-range-i) | 04-06-26 |
 | 5 | Total Waviness of Numbers in Range II | hard | JavaScript | DP | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/dp/total-waviness-of-numbers-in-range-ii) | 05-06-26 |
 | 6 | Left and Right Sum Differences | easy | JavaScript | Prefix Sum | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/prefix-sum/left-and-right-sum-differences) | 06-06-26 |
+| 7 | Create Binary Tree From Descriptions | medium | JavaScript | Tree | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/tree/create-binary-tree-from-descriptions) | 07-06-26 |
