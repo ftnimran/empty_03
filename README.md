@@ -11,3 +11,4 @@
 | 7 | Create Binary Tree From Descriptions | medium | JavaScript | Tree | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/tree/create-binary-tree-from-descriptions) | 07-06-26 |
 | 8 | Partition Array According to Given... | medium | JavaScript | Two Pointer | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/two-pointer/partition-array-according-to-given-pivot) | 08-06-26 |
 | 9 | Maximum Total Subarray Value I | medium | JavaScript | Greedy | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/greedy/maximum-total-subarray-value-i) | 09-06-26 |
+| 10 | Maximum Total Subarray Value II | hard | JavaScript | Segment Tree | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/segment-tree/maximum-total-subarray-value-ii) | 10-06-26 |
