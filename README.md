@@ -13,3 +13,4 @@
 | 9 | Maximum Total Subarray Value I | medium | JavaScript | Greedy | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/greedy/maximum-total-subarray-value-i) | 09-06-26 |
 | 10 | Maximum Total Subarray Value II | hard | JavaScript | Segment Tree | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/segment-tree/maximum-total-subarray-value-ii) | 10-06-26 |
 | 11 | Number of Ways to Assign Edge Weig... | medium | JavaScript | Tree | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/tree/number-of-ways-to-assign-edge-weights-i) | 11-06-26 |
+| 12 | Number of Ways to Assign Edge Weig... | hard | JavaScript | DP | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/dp/number-of-ways-to-assign-edge-weights-ii) | 12-06-26 |
